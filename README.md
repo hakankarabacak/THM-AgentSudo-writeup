@@ -10,7 +10,7 @@ We have 3 ports. Now let's go to the website.
 
 ![website](https://user-images.githubusercontent.com/94487022/159172149-c2332215-1b35-4d5b-80ec-6bf2020f682b.png)
 
-We have a good looking page over here. You can explore there options if you want.
+We have a good looking page over here. You can explore these options if you want.
 
 Now we will scan directories with dirb.
 
